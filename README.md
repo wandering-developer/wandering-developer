@@ -16,7 +16,11 @@ I am Onkar Pathak, a backend and data engineer from India. I work as a consultan
 # My Development Setup
 
 OS: MacOSX
+
 IDE: IntelliJ, PyCharm & VS Code
+
 Container: Docker
+
 Databases: PostgresSQL, Google BigQuery
+
 Cloud Platform: Google Cloud
