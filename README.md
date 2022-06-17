@@ -1,8 +1,5 @@
 ![about-cover](https://user-images.githubusercontent.com/6473915/174388569-12024625-733c-4cbb-81ff-d914bce8dedb.png)
-
-
 ### Hi there 👋, Welcome to my GitHub profile
-
 <!--
 **wandering-developer/wandering-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
